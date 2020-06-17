@@ -1,0 +1,10 @@
+{
+    "1.md": {
+      "title": "Erste Block:", 
+      "body": "Sprechen Sie Deutsch?"
+    },
+    "2.md": {
+      "title": "Zweite Block:", 
+      "body": "Gutten Morgen!"
+    }
+  }
